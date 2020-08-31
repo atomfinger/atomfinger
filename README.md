@@ -13,4 +13,6 @@ As a developer I care a lot about:
 You may contact me through my website [website](https://jmgundersen.net).  
 This is also where you can find my [blog](https://www.jmgundersen.net/blog) - this is where you'll find what I'm up to as well.
 
+If you're interested you may consider checking out my [resume as well](https://github.com/atomfinger/resume/releases/latest/).
+
 If you're the kind of person which uses LinkedIn you can find that [here](https://www.linkedin.com/in/john-mikael-gundersen/).
