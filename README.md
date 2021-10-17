@@ -9,6 +9,12 @@ curl https://atomfinger.github.io/resume/resume.txt
 wget https://atomfinger.github.io/resume/resume.txt
 ```
 
+<h3>Some of the stuff I've been up to:</h3>
+
+ - [Protector-Initializr-Java](https://github.com/protectorinsurance/protector-initializr-java): An opinionated and interactive project initializer. Used as a foundation when new projects are created at [Protector](https://protectorforsikring.no/en/).
+ - [ToUUID](https://github.com/atomfinger/toUUID): A small open-source testing library to create readable UUIDs.
+ - [My resume](https://github.com/atomfinger/resume/): It's a whole thing...
+
 <h3 align="left">I use a bunch of different technologies:</h3>
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20" /> </a>
@@ -32,10 +38,12 @@ wget https://atomfinger.github.io/resume/resume.txt
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20" /> </a>
     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20" /> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20" /> </a>
+    <a href="https://groovy-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="20" height="20" /> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20" /> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" /> </a>
     <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20" /> </a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20" /> </a>
 </p>
+
 
 
