@@ -1,19 +1,20 @@
-<h1 align="center">Howdy, I'm John M. Gundersen</h1>
+<h1 align="center">Howdy, I'm John M. Lindbakk</h1>
 <h3 align="center">A developer who cares about quality, testing and code.</h3>
-<h4 align="center">Website: <a href="https://jmgundersen.net/">jmgundersen.net</a> - Resume: <a href="https://atomfinger.github.io/atomfinger/resume">atomfinger.github.io/atomfinger/resume</a></h4>
+<h4 align="center">Website: <a href="https://lindbakk.com.net/">lindbakk.com</a> - Resume: <a href="https://atomfinger.github.io/atomfinger/resume">atomfinger.github.io/atomfinger/resume</a></h4>
 
 ```bash
 curl https://atomfinger.github.io/resume/resume.txt
 ```
+
 ```
 wget https://atomfinger.github.io/resume/resume.txt
 ```
 
 <h3>Some of the stuff I've been up to:</h3>
 
- - [Protector-Initializr-Java](https://github.com/protectorinsurance/protector-initializr-java): An opinionated and interactive project initializer. Used as a foundation when new projects are created at [Protector](https://protectorforsikring.no/en/).
- - [ToUUID](https://github.com/atomfinger/toUUID): A small open-source testing library to create readable UUIDs.
- - [My resume](https://github.com/atomfinger/resume/): It's a whole thing...
+- [Protector-Initializr-Java](https://github.com/protectorinsurance/protector-initializr-java): An opinionated and interactive project initializer. Used as a foundation when new projects are created at [Protector](https://protectorforsikring.no/en/).
+- [ToUUID](https://github.com/atomfinger/toUUID): A small open-source testing library to create readable UUIDs.
+- [My resume](https://github.com/atomfinger/resume/): It's a whole thing...
 
 <h3 align="left">I use a bunch of different technologies:</h3>
 <p align="left">
@@ -23,7 +24,7 @@ wget https://atomfinger.github.io/resume/resume.txt
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20" /> </a>
     <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="20" height="20" /> </a>
     <a href="https://elixir-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="20" height="20" /> </a>
-    <a href="https://clojure.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" alt="clojure" width="20" height="20" /> </a> 
+    <a href="https://clojure.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" alt="clojure" width="20" height="20" /> </a>
     <a href="https://www.erlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="20" height="20" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20" /> </a>
     <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="20" height="20" /> </a>
@@ -44,6 +45,3 @@ wget https://atomfinger.github.io/resume/resume.txt
     <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20" /> </a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20" /> </a>
 </p>
-
-
-
