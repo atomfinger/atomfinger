@@ -14,6 +14,7 @@ With over a decade of experience across diverse domains, I craft robust and main
 ### 🚀 Some of the stuff I've been up to:
 
 - [Surtoget](https://surtoget.no): A website dedicated to the frustrations of the Sørlandsbanen railway line in Norway.
+- [JavaZone presentation](https://vimeo.com/showcase/11348501/video/1006510177): Test more and better with less friction
 - [ToUUID](https://github.com/atomfinger/toUUID): A small open-source testing library to create readable UUIDs.
 
 ---
