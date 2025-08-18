@@ -1,22 +1,19 @@
-<h1 align="center">Howdy, I'm John M. Lindbakk</h1>
+<h1 align="center">Howdy, I'm John M. Lindbakk! <img src="mikael_excited_square_no_bg.png" alt="excited" width="30"/></h1>
 <h3 align="center">A developer who cares about quality, testing and code.</h3>
-<h4 align="center">Website: <a href="https://lindbakk.com.net/">lindbakk.com</a> - Resume: <a href="https://atomfinger.github.io/atomfinger/resume">atomfinger.github.io/atomfinger/resume</a></h4>
+<h4 align="center">Website: <a href="https://lindbakk.com/">lindbakk.com</a></h4>
 
-```bash
-curl https://atomfinger.github.io/resume/resume.txt
-```
+With over a decade of experience across diverse domains, I craft robust and maintainable software solutions, driven by a passion for continuous learning and technical excellence. My focus extends beyond specific technologies to the foundational principles of adaptable architecture, thriving engineering cultures, collaborative leadership, and pragmatic delivery that drive long-term success.
 
-```
-wget https://atomfinger.github.io/resume/resume.txt
-```
+---
 
-<h3>Some of the stuff I've been up to:</h3>
+### 🚀 Some of the stuff I've been up to:
 
-- [Protector-Initializr-Java](https://github.com/protectorinsurance/protector-initializr-java): An opinionated and interactive project initializer. Used as a foundation when new projects are created at [Protector](https://protectorforsikring.no/en/).
+- [Surtoget](https://surtoget.no): A website dedicated to the frustrations of the Sørlandsbanen railway line in Norway.
 - [ToUUID](https://github.com/atomfinger/toUUID): A small open-source testing library to create readable UUIDs.
-- [My resume](https://github.com/atomfinger/resume/): It's a whole thing...
 
-<h3 align="left">I use a bunch of different technologies:</h3>
+---
+
+### 💻 I use a bunch of different technologies:
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20" /> </a>
     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20" /> </a>
@@ -37,6 +34,7 @@ wget https://atomfinger.github.io/resume/resume.txt
     <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20" /> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20" /> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20" /> </a>
+    <a href="https.gleam.run" target="_blank"> <img src="https://gleam.run/branding/gleam-logo.svg" alt="gleam" width="20" height="20" /> </a>
     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20" /> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20" /> </a>
     <a href="https://groovy-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="20" height="20" /> </a>
@@ -44,4 +42,8 @@ wget https://atomfinger.github.io/resume/resume.txt
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" /> </a>
     <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20" /> </a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20" /> </a>
+</p>
+
+<p align="center">
+  <img src="mikael_too_tired_no_bg.png" alt="too_tired" width="150"/>
 </p>
