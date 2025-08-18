@@ -1,4 +1,9 @@
-<h1 align="center">Howdy, I'm John M. Lindbakk! <img src="mikael_excited_square_no_bg.png" alt="excited" width="30"/></h1>
+<h1 align="center">Howdy, I'm John M. Lindbakk!</h1>
+
+<p align="center">
+    <img src="mikael_excited_square_no_bg.png" alt="excited" width="300"/></h1>
+</p>
+
 <h3 align="center">A developer who cares about quality, testing and code.</h3>
 <h4 align="center">Website: <a href="https://lindbakk.com/">lindbakk.com</a></h4>
 
@@ -45,5 +50,5 @@ With over a decade of experience across diverse domains, I craft robust and main
 </p>
 
 <p align="center">
-  <img src="mikael_too_tired_no_bg.png" alt="too_tired" width="150"/>
+  <img src="mikael_too_tired_no_bg.png" alt="too_tired" width="400"/>
 </p>
