@@ -7,19 +7,15 @@
 <h3 align="center">A developer who cares about quality, testing and code.</h3>
 <h4 align="center">Website: <a href="https://lindbakk.com/">lindbakk.com</a></h4>
 
-With over a decade of experience across diverse domains, I craft robust and maintainable software solutions, driven by a passion for continuous learning and technical excellence. My focus extends beyond specific technologies to the foundational principles of adaptable architecture, thriving engineering cultures, collaborative leadership, and pragmatic delivery that drive long-term success.
 
----
-
-### 🚀 Some of the stuff I've been up to:
+### 🚀 Some of the stuff I've been up to
 
 - [Surtoget](https://surtoget.no): A website dedicated to the frustrations of the Sørlandsbanen railway line in Norway.
 - [JavaZone presentation](https://vimeo.com/showcase/11348501/video/1006510177): Test more and better with less friction
 - [ToUUID](https://github.com/atomfinger/toUUID): A small open-source testing library to create readable UUIDs.
 
----
 
-### 💻 I use a bunch of different technologies:
+### 💻 I use a bunch of different technologies
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20" /> </a>
     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20" /> </a>
