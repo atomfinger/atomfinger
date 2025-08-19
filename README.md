@@ -1,19 +1,19 @@
-<h1 align="center">Howdy, I'm John M. Lindbakk! <img src="mikael_excited_square_no_bg.png" alt="excited" width="30"/></h1>
+<h1 align="center">Howdy, I'm John M. Lindbakk!</h1>
+
+<p align="center">
+    <img src="mikael_excited_square_no_bg.png" alt="excited" width="300"/></h1>
+</p>
+
 <h3 align="center">A developer who cares about quality, testing and code.</h3>
 <h4 align="center">Website: <a href="https://lindbakk.com/">lindbakk.com</a></h4>
 
-With over a decade of experience across diverse domains, I craft robust and maintainable software solutions, driven by a passion for continuous learning and technical excellence. My focus extends beyond specific technologies to the foundational principles of adaptable architecture, thriving engineering cultures, collaborative leadership, and pragmatic delivery that drive long-term success.
-
----
-
-### 🚀 Some of the stuff I've been up to:
+### 🚀 Some of the stuff I've been up to
 
 - [Surtoget](https://surtoget.no): A website dedicated to the frustrations of the Sørlandsbanen railway line in Norway.
+- [JavaZone presentation](https://vimeo.com/showcase/11348501/video/1006510177): Test more and better with less friction
 - [ToUUID](https://github.com/atomfinger/toUUID): A small open-source testing library to create readable UUIDs.
 
----
-
-### 💻 I use a bunch of different technologies:
+### 💻 I use a bunch of different technologies
 
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20" /> </a>
@@ -46,5 +46,5 @@ With over a decade of experience across diverse domains, I craft robust and main
 </p>
 
 <p align="center">
-  <img src="mikael_too_tired_no_bg.png" alt="too_tired" width="150"/>
+  <img src="mikael_too_tired_no_bg.png" alt="too_tired" width="400"/>
 </p>
