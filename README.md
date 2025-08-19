@@ -14,6 +14,7 @@ With over a decade of experience across diverse domains, I craft robust and main
 ---
 
 ### 💻 I use a bunch of different technologies:
+
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20" /> </a>
     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20" /> </a>
