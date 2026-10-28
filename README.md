@@ -1,50 +1,24 @@
-<h1 align="center">Howdy, I'm John M. Lindbakk!</h1>
+<h1 align="center">Howdy, I'm Mikael!</h1>
+
+<h3 align="center">Software developer // 10+ years // Norway</h3>
 
 <p align="center">
-    <img src="mikael_excited_square_no_bg.png" alt="excited" width="300"/></h1>
+  <a href="https://lindbakk.com/">lindbakk.com</a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=atomfinger&style=flat-square&color=grey" alt="profile views" />
 </p>
 
-<h3 align="center">A developer who cares about quality, testing and code.</h3>
-<h4 align="center">Website: <a href="https://lindbakk.com/">lindbakk.com</a></h4>
+---
 
-### 🚀 Some of the stuff I've been up to
+I like building stuff.
 
-- [Surtoget](https://surtoget.no): A website dedicated to the frustrations of the Sørlandsbanen railway line in Norway.
-- [JavaZone presentation](https://vimeo.com/showcase/11348501/video/1006510177): Test more and better with less friction
-- [ToUUID](https://github.com/atomfinger/toUUID): A small open-source testing library to create readable UUIDs.
+I sometimes wite stuff on [my blog](https://lindbakk.com/blog), and some end up as [talks](https://lindbakk.com/about).
 
-### 💻 I use a bunch of different technologies
 
-<p align="left">
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20" /> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20" /> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20" /> </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20" /> </a>
-    <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="20" height="20" /> </a>
-    <a href="https://elixir-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="20" height="20" /> </a>
-    <a href="https://clojure.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" alt="clojure" width="20" height="20" /> </a>
-    <a href="https://www.erlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="20" height="20" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20" /> </a>
-    <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="20" height="20" /> </a>
-    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20" /> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20" /> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="20" height="20" /> </a>
-    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="20" height="20" /> </a>
-    <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="20" height="20" /> </a>
-    <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="20" /> </a>
-    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20" /> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20" /> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20" /> </a>
-    <a href="https.gleam.run" target="_blank"> <img src="https://gleam.run/branding/gleam-logo.svg" alt="gleam" width="20" height="20" /> </a>
-    <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20" /> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20" /> </a>
-    <a href="https://groovy-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="20" height="20" /> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" /> </a>
-    <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20" /> </a>
-    <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20" /> </a>
-</p>
+### Some of the stuff I've made
 
-<p align="center">
-  <img src="mikael_too_tired_no_bg.png" alt="too_tired" width="400"/>
-</p>
+- [**Surtoget.no**](https://surtoget.no): keeps track of how late the trains on Sørlandsbanen are. Spoiler: very.
+- [**Brunost**](https://atomfinger.github.io/brunost/): a programming language written in Nynorsk. Yes, really.
+- [**No Meat Proxy**](https://nomeatproxy.com/): please don't just paste what the LLM said.
+- [**Bygg**](https://atomfinger.github.io/bygg/): get a new Gleam project up and running.
+- [**Gaseto**](https://github.com/atomfinger/gaseto) and [**http_server_mock**](https://github.com/atomfinger/http_server_mock): a couple of Gleam libraries.
