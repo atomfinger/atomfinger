@@ -2,12 +2,6 @@
 
 <h3 align="center">Software developer // 10+ years // Norway</h3>
 
-<p align="center">
-  <a href="https://lindbakk.com/">lindbakk.com</a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=atomfinger&style=flat-square&color=grey" alt="profile views" />
-</p>
-
 ---
 
 I like building stuff.
